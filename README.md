@@ -1,5 +1,5 @@
 # CyanTrigger
-CyanTrigger is a new compiler for Udon with focus on in-scene editing. The interface resembles the old SDK2 VRC Trigger interface, but has more functionality. CyanTriggers is not intended to replace UdonGraph or UdonSharp, but work alongside those tools. Currently only available through [**CyanLaser's Patreon**](http://patreon.com/CyanLaser).
+CyanTrigger is a new compiler for Udon with focus on in-scene editing. The interface resembles the old SDK2 VRC Trigger interface, but has more functionality. CyanTrigger has full access to all of Udon and can work with UdonGraph and UdonSharp. CyanTrigger can be [downloaded from Booth.pm](https://cyanlaser.booth.pm/items/3194594).
 
 ## Features
 - Easy interface for adding quick logic in your scene
@@ -12,9 +12,9 @@ CyanTrigger is a new compiler for Udon with focus on in-scene editing. The inter
 CyanTriggers are still in early development. Nothing is final. There are missing features as well as bugs! See the [issues page](https://github.com/CyanLaser/CyanTrigger/issues) for more details.
 
 # Requirements
-- Unity 2018.4.20f1
+- Unity 2019.4.29f1
 - [VRChat SDK3](https://vrchat.com/home/download)
-- The latest release of CyanTriggers ([Patreon](http://patreon.com/CyanLaser))
+- The [latest release of CyanTrigger](https://cyanlaser.booth.pm/items/3194594)
 
 # Getting started
 - Create a new GameObject in your scene.
