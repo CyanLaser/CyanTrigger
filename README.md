@@ -12,7 +12,7 @@ CyanTrigger can be downloaded from these locations:
 - Customizable with favorite lists and Custom Actions
 - Compatible with both UdonGraph and UdonSharp
 
-<img alt="CyanTriggerPreview" src="https://i.imgur.com/CGHnTob.png" width="40%" />
+<img alt="CyanTriggerPreview" src="https://i.imgur.com/CGHnTob.png" width="60%" />
 
 ## Bugs
 Found a bug with CyanTrigger? Create a [new issue](https://github.com/CyanLaser/CyanTrigger/issues) describing the problem and how to reproduce it.
