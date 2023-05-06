@@ -1,0 +1,24 @@
+{
+    "name":"CyanTrigger Listing",
+    "id":"com.cyan.cyantrigger.vcc-listing",
+    "url":"https://CyanLaser.github.io/CyanTrigger/index.json",
+    "author":{
+        "name":"CyanLaser",
+        "url":"https://twitter.com/CyanLaser"
+    },
+    "description":"A VRChat Udon compiler that simplifies creating logic while still providing the full power of Udon. Features Event and Action lists with in scene editing. Visually similar to VRCSDK2's VRC_Trigger.",
+    "infoLink":{
+        "url":"http://github.com/CyanLaser/CyanTrigger",
+        "text":"GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "packages":[
+        {
+            "name":"com.cyan.cyantrigger",
+            "releases":[
+                "https://github.com/CyanLaser/CyanTrigger/releases/download/4.2.0/com.cyan.cyantrigger-4.2.0.zip",
+                "https://github.com/CyanLaser/CyanTrigger/releases/download/0.4.2/com.cyan.cyantrigger-0.4.2.zip"
+            ]
+        }
+    ]
+}
