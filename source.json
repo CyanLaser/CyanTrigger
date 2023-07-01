@@ -16,6 +16,7 @@
         {
             "name":"com.cyan.cyantrigger",
             "releases":[
+                "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.0/com.cyan.cyantrigger-4.3.0.zip",
                 "https://github.com/CyanLaser/CyanTrigger/releases/download/4.2.0/com.cyan.cyantrigger-4.2.0.zip",
                 "https://github.com/CyanLaser/CyanTrigger/releases/download/0.4.2/com.cyan.cyantrigger-0.4.2.zip"
             ]
