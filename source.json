@@ -16,9 +16,16 @@
         {
             "name":"com.cyan.cyantrigger",
             "releases":[
+                "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.1/com.cyan.cyantrigger-4.3.1.zip",
                 "https://github.com/CyanLaser/CyanTrigger/releases/download/4.3.0/com.cyan.cyantrigger-4.3.0.zip",
                 "https://github.com/CyanLaser/CyanTrigger/releases/download/4.2.0/com.cyan.cyantrigger-4.2.0.zip",
                 "https://github.com/CyanLaser/CyanTrigger/releases/download/0.4.2/com.cyan.cyantrigger-0.4.2.zip"
+            ]
+        },
+        {
+            "name":"com.cyan.cyantrigger.sdk2migrator",
+            "releases":[
+                "https://github.com/CyanLaser/CyanTrigger-SDK2Migrator/releases/download/v2.1.0/com.cyan.cyantrigger.sdk2migrator-2.1.0.zip"
             ]
         }
     ]
