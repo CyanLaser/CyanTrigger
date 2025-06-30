@@ -1,3 +1,6 @@
+# CyanTrigger Deprecation
+CyanTrigger will not be receiving new feature updates. CyanTrigger should continue to work for some time. Long term, it is recommended to learn [official creation tools](https://creators.vrchat.com/worlds/udon/). VRChat does not currently have tools to support non-programmers, such as the users of CyanTrigger. If this concerns you, [give VRChat your feedback](https://feedback.vrchat.com).
+
 # CyanTrigger
 CyanTrigger is an Udon compiler with focus on in-scene editing. The interface resembles the old SDK2 VRC Trigger interface, but has more functionality. CyanTrigger has full access to all of Udon and can work with UdonGraph and UdonSharp.
 
@@ -31,7 +34,6 @@ Found a bug with CyanTrigger? Create a [new issue](https://github.com/CyanLaser/
 
 # Links
 - [CyanLaser Discord](https://discord.gg/stPkhM2T6C) - Get Support for CyanTrigger and other world development
-- [CyanLaser Patreon](http://patreon.com/CyanLaser) - Support this and my other projects
 - [CyanLaser Twitter](https://twitter.com/CyanLaser) - Follow my progress on this and other VRChat projects
 - [VRChat documentation](https://docs.vrchat.com/)
 - [Unity documentation](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/MonoBehaviour.html)
